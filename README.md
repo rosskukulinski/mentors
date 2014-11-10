@@ -7,10 +7,10 @@ Mentors
 - [George Shank](https://github.com/taterbase) - Based out of Salt Lake City, UT. Happy to help with any questions, big or small.
 - [Jason Rhodes](https://github.com/jasonrhodes) - in Baltimore, MD. Also happy to help with questions, especially medium-sized ones.
 - [Matt Hernandez](https://github.com/fiveisprime) - in Cincinnati, OH. Ask me about designing and building Node.js apps and modules.
-- [Charlie Robbins](https://github.com/indexzero) - based out of New York City. Send me all your questions in gists!
+- [Charlie Robbins](https://github.com/indexzero) - based out of New York City. Send me all your questions in gist!s
 - [Benjamin Lupton](http://balupton.com) [@balupton](https://github.com/balupton) - mentoring in Sydney for vegan food and shelter
 - [Mudit Ameta](https://github.com/zeusdeux) [@muditameta](https://twitter.com/muditameta) - Happy to help. If help is required in person in Bangalore, India, that can be arranged too. Just tweet at me to get things started. Happy hacking!
-
+- [Ross Kukulinski](https://github.com/rosskukulinski) [@rosskukulinski](https://twitter.com/rosskukulinski) - Online or in-person mentoring and help. I <3 coffee and beer. Based in Menlo Park, CA, USA.
 ![mentors and mentees](http://media.giphy.com/media/AyAxcQ0DsAJzi/giphy.gif)
 
 **Why mentor?**
